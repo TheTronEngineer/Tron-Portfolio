@@ -1,6 +1,10 @@
-# Project Title
+# Wireless Speaker 
 
-**One-sentence project description**
+*Date: December 2025 - March 2025*
+
+---
+
+**Description**
 
 Example: Designed and simulated a control system in MATLAB to model predator–prey population dynamics using the Lotka–Volterra equations.
 
@@ -12,17 +16,14 @@ Example: Designed and simulated a control system in MATLAB to model predator–p
 **Objective:** What was the goal of the project?  
 **Outcome:** What was achieved or demonstrated?
 
-Brief explanation (3–5 sentences max). Assume the reader is quickly scanning.
-
 ---
 
 ## Key Skills Demonstrated
 
-- Engineering analysis
-- Programming / simulation
-- CAD / mechanical design
+- CAD / Mechanical Design
 - Circuit design / electronics
-- Data analysis and visualization
+- Simulation / Virtual testing
+- Construction / Building techniques    
 
 ---
 
@@ -30,17 +31,17 @@ Brief explanation (3–5 sentences max). Assume the reader is quickly scanning.
 
 | Category | Tools |
 |--------|--------|
-| Programming | MATLAB / Python / C++ |
-| Engineering Software | SolidWorks / Simulink / LTSpice |
-| Hardware | Arduino / sensors / PCB |
-| Other | Git, data analysis |
+| CAD | Fusion 360 |
+| Simulation Software | WinISD |
+| Electronics | Soldering Iron |
+| Constuction | Various saws, router |
 
 ---
 
 ## Project Context
 
-- Course / personal project / research / internship
-- Individual or team project
+- personal project
+- Individual project
 - Key constraints (time, design requirements, hardware limits)
 
 Example:

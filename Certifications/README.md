@@ -1,8 +1,6 @@
-# Folder Overview
+# Certifications Overview
 
-This folder contains items related to **[Projects / Certificates]** within my engineering portfolio.
-
-Each item includes documentation describing the work completed and the skills demonstrated.
+This folder contains certifications and skills that I've learned and used. Through my years building projects, I've aquired many skills. These certifications show my progress in with some of my skills.
 
 ---
 
@@ -10,29 +8,9 @@ Each item includes documentation describing the work completed and the skills de
 
 | Item | Description | Key Skills |
 |------|------|------|
-| Item Name | Brief description of the project or certificate | Skill 1, Skill 2 |
-| Item Name | Brief description | Skill 1, Skill 2 |
-| Item Name | Brief description | Skill 1, Skill 2 |
+| Excel | Obtained in first year of university for a course | Using formulas and functions, proper formatting, collaboration |
+| OnShape | Obtained in first year university; used OnShape for the year for CAD and modelling | Sketches, part design, assembly design and engineering drawings |
+| SolidWorks | Obtained in second year university, used for modellingcreating drawings for course projects | Sketches, part design, assembly design and engineering drawings |
+| WHIMIS | Obtained in fist year university | Symbol identification, safety procedures |
 
 ---
-
-## Structure
-
-Each folder contains:
-
-- `README.md` – overview of the work  
-- supporting files such as:
-  - source code
-  - CAD models
-  - simulation scripts
-  - images or results
-
-
----
-
-## Notes
-
-- Projects focus on demonstrating engineering design, analysis, and implementation.
-- Certificates document completed technical training and certifications.
-
-See the README inside each folder for detailed information.

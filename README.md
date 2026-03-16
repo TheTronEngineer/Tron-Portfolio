@@ -2,27 +2,7 @@
 
 **Mechatronics Engineering Student | Interested in Controls, Robotics, and Embedded Systems**
 
-Welcome to my engineering portfolio. This repository contains selected projects, technical work, and certifications demonstrating my skills in engineering design, analysis, and programming.
-
----
-
-## About Me
-
-- Mechatronics Engineering Student at Western University  
-- Interested in robotics, control systems, and engineering design  
-- Experience with simulation, CAD, electronics, and programming  
-- Seeking engineering internship opportunities
-
----
-
-## Technical Skills
-
-| Category | Tools / Technologies |
-|--------|--------|
-| Programming | MATLAB, Python, C/C++ |
-| Engineering Software | SolidWorks, Simulink |
-| Electronics | Circuit analysis, PCB assembly |
-| Tools | Git, data analysis |
+Hi, my name is Aiden Nickel, welcome to my engineering portfolio. This repository contains code, models and files from my projects and technical work, as well as certifications demonstrating my skills in engineering design, analysis, and programming.
 
 ---
 

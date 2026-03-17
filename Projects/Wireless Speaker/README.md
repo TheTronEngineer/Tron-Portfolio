@@ -2,7 +2,7 @@
 
 *Date: December 2025 - March 2025*
 
-![alt text](https://github.com/TheTronEngineer/Tron-Portfolio/blob/main/Projects/Wireless%20Speaker/Pictures/Speaker-Final-Main.jpg)
+<img src="https://github.com/TheTronEngineer/Tron-Portfolio/blob/main/Projects/Wireless%20Speaker/Pictures/Speaker-Final-Main.jpg" alt="Wireless Speaker Main Picture" width="250"/>
 
 ---
 

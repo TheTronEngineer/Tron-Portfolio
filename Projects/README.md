@@ -9,7 +9,7 @@ This folder contains everything from CAD models to code and any other related fi
 | Item | Description | Key Skills |
 |------|------|------|
 | Wireless Speaker | Built a wired + wireless speaker for maximum bass and high sound quality | CAD, Simulation software, Circuit design, Soldering, Construction |
-| 3D Printed Iron Man Suit | A (Almost) full Iron Man MK4 suit | 3D pinting, Assembly design |
+| 3D Printed Iron Man Suit | An (almost) full Iron Man MK4 suit | 3D pinting, Assembly design |
 | Westen Engineering Competition (WEC) | A 1 night engineering competition and Western | Quick problem solving, CAD, Ciruit design and testing, Solution iteration |
 
 ---

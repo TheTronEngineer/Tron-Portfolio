@@ -41,9 +41,9 @@ See:
 
 | Project | Description | Skills |
 |-------|-------|-------|
-| Project Name | One sentence description | MATLAB, modeling |
-| Project Name | One sentence description | SolidWorks, design |
-| Project Name | One sentence description | electronics |
+| Iron Man Suit | A (nearly) full 3D printed and wired iron man suit | 3D printing, electronics, soldering, mechanical assembly |
+| Wireless Speaker | A portable party speaker that doesn't cut on performance | 3D modelling, simulation, electronics, soldering, power tools |
+| PCB Power Supply | Assembling and testing a custom power supply | Electronics, Soldering, Circuit Analysis |
 
 ---
 
@@ -51,6 +51,6 @@ See:
 
 **Aiden Nickel**
 
-LinkedIn: www.linkedin.com/in/aiden-nickel 
+[LinkedIn](www.linkedin.com/in/aiden-nickel) 
 
 Email: nickelaiden@gmail.com

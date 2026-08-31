@@ -11,7 +11,7 @@ Hi, my name is Aiden Nickel, welcome to my engineering portfolio. This repositor
 This repository is organized into the following sections:
 
 ### Projects
-Engineering and programming projects demonstrating technical skills.
+Engineering and programming projects demonstrating technical skills. These are both personal projects as well as projects from University and High School
 
 Examples include:
 - Simulation and modeling
@@ -25,7 +25,7 @@ See:
 ---
 
 ### Certificates
-Professional certifications and technical training.
+Professional certifications and technical training. This can be anything from Excel to Solidworks
 
 Examples include:
 - Software certifications

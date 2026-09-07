@@ -33,13 +33,24 @@ A big limiting factor that was difficult for me at the beginning was knowledge. 
 
 **Design/Planning:**  
 I started off with lots of reaserch. I watched plenty of Youtube videos on people building speakers, talking about nessisary components, and showing their build process. This really familiarized me with how speakers work and how to build them. From this, I determined I needed the following parts:  
-* Speaker driver
-* Amplifier
-* Cabinet (enclosure)  
+* **Speaker driver**
+* **Amplifier**
+* **Cabinet (enclosure)**  
 Along with a couple extras such as foam/insulation for the inside of the cabinets, and anthing else I wanted to decorate the speaker with or things that added funcitonality, like a handle
+
+After this, came more reaserch. In order for everything to work, the power source needed to match with the amplifier, and the speaker drivers needed to match resistance with the amplifier and have a greater or equal power handling than the amplifier output. **So each part needed to be chosen carefully in order to have everything work properly.** One thing that helped with this was a free subwoofer from my uncle; I used this as a fixed component and planned the rest of the components from the sub
+
+In the end, I decided on a **2.1 system** (right and left channel, and a subwoofer). This was driven by a fairly cheap bluetooth amplifier. The whole speaker was powered by a 24V 8Ah (not exactly sure on the capacity now) battery. The battery was chosen from some simple calculations coming from the max output of the amplifier
+
+Along with the components, the speaker cabinet needed careful planning as well. Each speaker driver works differently in different sized cabinets, so **finding the optimal size for each would increase the volume and quality of the speaker.** I also learned a bit about ports, and how a certain length opening in a cabinet can help boost some low end sound. To find this optimal size, I used a software called **WinISD.** this gave me a volume for the sub and the two channel speakers and the length and size of the port I needed.
+
+And finally, style! What would be the point of a speaker if it didn't look at lease a little cool? I had done a bunch of thinking and a little bit of sketching to help invision different designs. As seen in the picture below, I settled on a mostly rectangular design with some slightly rounded corners.
+![Sketched Speaker Designs](./Pictures/Speaker%20Designs.jpg)
+
 
 **Building/Iterating:**  
 Show different prototypes and milestones in build progress. Also talk about good and hard parts about building, and any decisions that changed from the old design
+
 
 **Testing:**  
 After/during the project, how did you make sure items were working as intended? How did you measure success?
@@ -50,6 +61,7 @@ After/during the project, how did you make sure items were working as intended? 
 
 **Achievements and Accomplishments:**  
 What did you like about the project, what went well, what did you learn?
+
 
 **Future Improvements:**  
 What would you change for next time, what didn't go super well, what did you learn?

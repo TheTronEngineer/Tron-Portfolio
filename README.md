@@ -3,8 +3,8 @@
 **Mechatronic Systems Engineering Student | 3rd year Western University**
 
 
-    Hi, my name is Aiden Nickel, and I want to welcome to my engineering portfolio! This here is a collection of all the projects I have worked on over the years, as well as some certificates and letters of reccomendations.
-    I am a hard working engineer that is not afraid to get my hands dirty or dig into something I'm new to. In fact, I love learning how things work and new things everyday, right from when I was a child! (For real though, you can ask my parents). I always try to keep a positive attitude, and I love encouraging teammates and friends in whatever I can. I do my best to communicate clearly and quickly, and I am not afraid to take on individual or group projects.
+Hi, my name is Aiden Nickel, and I want to welcome to my engineering portfolio! This here is a collection of all the projects I have worked on over the years, as well as some certificates and letters of reccomendations.
+I am a hard working engineer that is not afraid to get my hands dirty or dig into something I'm new to. In fact, I love learning how things work and new things everyday, right from when I was a child! (For real though, you can ask my parents). I always try to keep a positive attitude, and I love encouraging teammates and friends in whatever I can. I do my best to communicate clearly and quickly, and I am not afraid to take on individual or group projects.
 
 ---
 

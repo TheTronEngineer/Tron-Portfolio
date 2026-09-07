@@ -7,143 +7,38 @@
 ---
 
 **Description**
-
 Example: Designed and simulated a control system in MATLAB to model predator–prey population dynamics using the Lotka–Volterra equations.
 
 ---
 
-## Overview
+## Project Overview
 
-**Problem:** What problem does this project address?  
 **Objective:** What was the goal of the project?  
-**Outcome:** What was achieved or demonstrated?
+**Constraints:** What were the limiting factors in this project?
+**Role/contribution** If applicable in a team project
 
 ---
 
-## Key Skills Demonstrated
+## Engineering Process
 
-- CAD / Mechanical Design
-- Circuit design / electronics
-- Simulation / Virtual testing
-- Construction / Building techniques    
+**Design/Planning:**
+Show Pictures, images and descriptions of planning the project. Also include specific engineering decisions
 
----
+**Building/Iterating:**
+Show different prototypes and milestones in build progress. Also talk about good and hard parts about building, and any decisions that changed from the old design
 
-## Technologies & Tools
-
-| Category | Tools |
-|--------|--------|
-| CAD | Fusion 360 |
-| Simulation Software | WinISD |
-| Electronics | Soldering Iron |
-| Constuction | Various saws, router |
+**Testing:**
+After/during the project, how did you make sure items were working as intended? How did you measure success?
 
 ---
 
-## Project Context
+## Reflection
 
-- personal project
-- Individual project
-- Key constraints (time, design requirements, hardware limits)
+**Achievements and Accomplishments:**
+What did you like about the project, what went well, what did you learn?
 
-Example:
-
-> Completed as part of a second-year engineering design course focused on power supply design and testing.
-
----
-
-## System / Design Overview
-
-Brief explanation of the system architecture.
-
-- Major components
-- Signal or data flow
-- Mechanical / electrical layout
-- Algorithm structure
-
-![System Diagram](images/system_diagram.png)
-
----
-
-## Engineering Approach
-
-### Concept Development
-- Initial design ideas
-- Tradeoffs considered
-- Final design decision
-
-### Modeling / Calculations
-- Analytical models
-- Simulations
-- Key engineering assumptions
-
-### Implementation
-- MATLAB scripts / software development
-- CAD modeling or hardware design
-- Prototype construction and testing
-
----
-
-## Key Features
-
-- Feature or capability
-- Automation / simulation functionality
-- Data analysis or visualization
-- Optimization or control implementation
-
-
----
-
-## Usage
-
-Example workflow:
-
-1. Initialize system parameters
-2. Run simulation or program
-3. Generate plots / outputs
-
----
-
-## Results
-
-Important outputs from the project.
-
-- performance plots
-- experimental results
-- simulation outputs
-
-![Results](images/results_plot.png)
-
-Short explanation of results and what they demonstrate.
-
----
-
-## Validation / Testing
-
-How the solution was verified:
-
-- comparison with theory
-- simulation validation
-- experimental testing
-- error analysis
-
-Example: simulation results matched analytical solution within 3% error.
-
----
-
-## Challenges & Lessons Learned
-
-- Technical challenges encountered
-- How problems were solved
-- Key engineering insights gained
-
----
-
-## Future Improvements
-
-- Performance improvements
-- Additional features
-- Hardware or model refinements
+**Future Improvements:**
+What would you change for next time, what didn't go super well, what did you learn?
 
 ---
 

@@ -3,8 +3,8 @@
 **Mechatronic Systems Engineering Student | 3rd year Western University**
 <table>
   <tr>
-    <td><img src="./Images/AidenBodyShot.jpg" width="45%"></td>
-    <td><img src="./Images/IronManPose.jpg" width="45%"></td>
+    <td><img src="./Images/AidenBodyShot.jpg" height="750"></td>
+    <td><img src="./Images/IronManPose.jpg" height="750"></td>
   </tr>
 </table>
 

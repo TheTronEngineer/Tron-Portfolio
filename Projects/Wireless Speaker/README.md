@@ -2,7 +2,7 @@
 
 *Date: December 2025 - March 2025* | Personal project during grade 12
 
-<img src="https://github.com/TheTronEngineer/Tron-Portfolio/blob/main/Projects/Wireless%20Speaker/Pictures/Speaker-Final-Main.jpg" alt="Wireless Speaker Main Picture" width="250"/>
+<img src="./Pictures/Speaker-Final-Main.jpg" alt="Wireless Speaker Main Picture" width="250"/>
 
 ---
 
@@ -44,8 +44,8 @@ In the end, I decided on a **2.1 system** (right and left channel, and a subwoof
 
 Along with the components, the speaker cabinet needed careful planning as well. Each speaker driver works differently in different sized cabinets, so **finding the optimal size for each would increase the volume and quality of the speaker.** I also learned a bit about ports, and how a certain length opening in a cabinet can help boost some low end sound. To find this optimal size, I used a software called **WinISD.** this gave me a volume for the sub and the two channel speakers and the length and size of the port I needed.
 
-And finally, style! What would be the point of a speaker if it didn't look at lease a little cool? I had done a bunch of thinking and a little bit of sketching to help invision different designs. As seen in the picture below, I settled on a mostly rectangular design with some slightly rounded corners.
-![Sketched Speaker Designs](./Pictures/Speaker%20Designs.jpg)
+And finally, style! What would be the point of a speaker if it didn't look at lease a little cool? I had done a bunch of thinking and a little bit of sketching to help invision different designs. As seen in the picture below, I settled on a mostly rectangular design with some slightly rounded corners  
+<img src="./Pictures/Speaker Designs.jpg" alt="Slketched Speaker Designs" height="250"/>
 
 
 **Building/Iterating:**  

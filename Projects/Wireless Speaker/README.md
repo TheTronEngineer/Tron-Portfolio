@@ -44,12 +44,27 @@ In the end, I decided on a **2.1 system** (right and left channel, and a subwoof
 
 Along with the components, the speaker cabinet needed careful planning as well. Each speaker driver works differently in different sized cabinets, so **finding the optimal size for each would increase the volume and quality of the speaker.** I also learned a bit about ports, and how a certain length opening in a cabinet can help boost some low end sound. To find this optimal size, I used a software called **WinISD.** this gave me a volume for the sub and the two channel speakers and the length and size of the port I needed.
 
-And finally, style! What would be the point of a speaker if it didn't look at lease a little cool? I had done a bunch of thinking and a little bit of sketching to help invision different designs. As seen in the picture below, I settled on a mostly rectangular design with some slightly rounded corners  
-<img src="./Pictures/Speaker Designs.jpg" alt="Slketched Speaker Designs" height="250"/>
+And finally, style! What would be the point of a speaker if it didn't look at lease a little cool? I had done a bunch of thinking and a little bit of sketching to help invision different designs. As seen in the picture below, I settled on a mostly rectangular design with some slightly rounded corners. I also did a basic model in Fusion 360 to get an idea on size and look of the speaker  
+<table>
+  <tr>
+    <td><img src="./Pictures/Speaker Designs.jpg" height="250"></td>
+    <td><img src="./Pictures/Cabinet Design Fusion 250.jpg" height="250"></td>
+  </tr>
+</table>
 
 
 **Building/Iterating:**  
-Show different prototypes and milestones in build progress. Also talk about good and hard parts about building, and any decisions that changed from the old design
+Now this was the fun part! After about 3 months of planning, simulating, calculating and designing, I was ready to build! I ordered the parts and had everything slowly arrive. As parts arrived, I started wiring the speaker direvers to the amplifier and a 12V power supply I had on hand to test the electronics. Thankfully, the speakers worked on the first try, with me being able to stream music over bluetooth and adjust volume and a couple other parameters with the knobs on the amplifier. However the sound out of the drivers wasn't too loud because it was just playing in the open air  
+<table>
+  <tr>
+    <td><img src="./Pictures/All Drivers.jpg" height="50"></td>
+    <td><img src="./Pictures/Amplifier.jpg" height="50"></td>
+    <td><img src="./Pictures/Battery Life Display.jpg" height="50"></td>
+    <td><img src="./Pictures/Battery.jpg" height="50"></td>
+  </tr>
+</table>
+
+After I had recieved all the electronics, I started to build the enclosure the the port for the speaker cabinet. I chose to use MDF as the cabinet material as it was a common choice online due to it's flat surfaces that would help reflect sound evenly inside the enclosure. I also 3D printed the port
 
 
 **Testing:**  

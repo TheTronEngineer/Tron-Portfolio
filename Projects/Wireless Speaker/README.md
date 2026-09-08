@@ -57,10 +57,10 @@ And finally, style! What would be the point of a speaker if it didn't look at le
 Now this was the fun part! After about 3 months of planning, simulating, calculating and designing, I was ready to build! I ordered the parts and had everything slowly arrive. As parts arrived, I started wiring the speaker direvers to the amplifier and a 12V power supply I had on hand to test the electronics. Thankfully, the speakers worked on the first try, with me being able to stream music over bluetooth and adjust volume and a couple other parameters with the knobs on the amplifier. However the sound out of the drivers wasn't too loud because it was just playing in the open air  
 <table>
   <tr>
-    <td><img src="./Pictures/All Drivers.jpg" height="50"></td>
-    <td><img src="./Pictures/Amplifier.jpg" height="50"></td>
-    <td><img src="./Pictures/Battery Life Display.jpg" height="50"></td>
-    <td><img src="./Pictures/Battery.jpg" height="50"></td>
+    <td><img src="./Pictures/All Drivers.jpg" height="100"></td>
+    <td><img src="./Pictures/Amplifier.jpg" height="100"></td>
+    <td><img src="./Pictures/Battery Life Display.jpg" height="100"></td>
+    <td><img src="./Pictures/Battery.jpg" height="100"></td>
   </tr>
 </table>
 

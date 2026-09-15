@@ -1,6 +1,6 @@
 # Wireless Speaker 
 
-*Date: December 2025 - March 2025* | Personal project during grade 12
+*Date: December 2023 - March 2024* | Personal project during grade 12
 
 <img src="./Pictures/Speaker-Final-Main.jpg" alt="Wireless Speaker Main Picture" width="250"/>
 

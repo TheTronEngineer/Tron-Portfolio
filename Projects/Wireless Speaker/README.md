@@ -54,7 +54,7 @@ And finally, style! What would be the point of a speaker if it didn't look at le
 
 
 **Building/Iterating:**  
-Now this was the fun part! After about 3 months of planning, simulating, calculating and designing, I was ready to build! I ordered the parts and had everything slowly arrive. As parts arrived, I started wiring the speaker direvers to the amplifier and a 12V power supply I had on hand to test the electronics. Thankfully, the speakers worked on the first try, with me being able to stream music over bluetooth and adjust volume and a couple other parameters with the knobs on the amplifier. However the sound out of the drivers wasn't too loud because it was just playing in the open air  
+Now this was the fun part! After about 3 months of planning, simulating, calculating and designing, I was ready to build! I ordered the parts and had everything slowly arrive. As parts arrived, I started wiring the speaker drivers to the amplifier and a 12V power supply I had on hand to test the electronics. Thankfully, the speakers worked on the first try, with me being able to stream music over bluetooth, and adjust volume and a couple other parameters with the knobs on the amplifier. However the sound out of the drivers wasn't too loud because it was just playing in the open air  
 <table>
   <tr>
     <td><img src="./Pictures/All Drivers.jpg" height="300"></td>
@@ -65,8 +65,8 @@ Now this was the fun part! After about 3 months of planning, simulating, calcula
 </table>
 
 After I had recieved all the electronics, I started to build the enclosure the the port for the speaker cabinet. I chose to use MDF as the cabinet material as it was a common choice online due to it's flat surfaces that would help reflect sound evenly inside the enclosure. I also put some insulation inside the left and right channel cabinet to help reduce resonant sound waves, creating a cleaner sound  
-I 3D printed the port in the speaker. I was initially concerned about vibrations and resonant frequency within the print, but I made sure to print it with solid infil and out of PETG so that wouldn't be a massive issue. Unfortunately due to the lack of space, I had to cut out a bit of the port so it would fiton the side of the speaker (as seen in the 4th image below)  
-As a note, I did not include insulation in the subwoofer cabinet becuase the resonant sound waves are meant to travel out the port, giving it it's extended frequency range. It was important to mount the battery with a custom printed cage to the electronics compartment so it wouldn't swing or bang around while in use  
+I 3D printed the port in the speaker. I was initially concerned about vibrations and resonant frequency within the print, but I made sure to print it with solid infil and out of PETG to help midigate those issues. Unfortunately due to the lack of space, I had to cut out some of the sides of the port so it would fit on the side of the speaker (as seen in the 4th image below)  
+As a note, I did not include insulation in the subwoofer cabinet becuase the resonant sound waves are meant to travel out the port, giving it it's extended frequency range. It was also important to mount the battery with a custom printed cage to the electronics compartment so it wouldn't swing or bang around while in use  
 <table>
   <tr>
     <td><img src="./Pictures/Speaker-BareFrame.jpg" height="300"></td>
@@ -76,7 +76,7 @@ As a note, I did not include insulation in the subwoofer cabinet becuase the res
   </tr>
 </table>
 
-One other fun part of this project is I got to design the control pannel for all the electronics. I modelled this in Fusion 360 with measuring components with calipers. I am very happy with how it looks, and it's held up really well!
+One other fun part of this project is I got to design the control pannel for all the electronics. I modelled this in Fusion 360 by measuring components with calipers. I am very happy with how it looks, and it's held up really well over the years!
 <table>
   <tr>
     <td><img src="./Pictures/Speaker-ElectronicsInstalled2.jpg" height="400"></td>
@@ -121,11 +121,24 @@ Now especially because I was new to lots of this type of electronics and project
 ## Reflection
 
 **Achievements and Accomplishments:**  
-What did you like about the project, what went well, what did you learn?
+* I believe I fufilled the goals of this project very well. The speaker had high audio quality with lots of low end, was battery powered and had a carrying handle for portability, and probably spent around $300 (which is great for this quality and caliber of speaker!)
+* I was very happy with the success of a higher level project where I was able to learn and apply knowledge to move outside the realm of arduino based projects, and into component selection and open-ended circuit design
+* Overall I loved using the speaker!
 
 
 **Future Improvements:**  
-What would you change for next time, what didn't go super well, what did you learn?
+* One Problem that I ended up fixing was the controls on the speaker.
+    * The amplifier has 5 knobs, each with a different function. And with the front plate of the amlifier covered, there was no indication of what each control does.
+    * I did print some of my own knobs with picture diagrams on the top, so this helps, however it still isn't perfect
+* Another issue that I've been worried about is it's waterproof capabilities.
+    * The speaker cabinet itself is waterproof, but the control panel (especially being 3D printed), the handle, charging port and really any other component that disrupts the enclosure might not be waterproof, which makes me nervous keeping it out in rainy conditions
+    * In the future I would want to look into beter design for the components to direct water away, (like how the brim of a hat blocks sunlight and rain from your face). I would also look into different materials other than 3D printing, as well as hardware like rubber gaskets that would resist water leaking through
+* The absolutely massive battery...
+    * Initially doing calculations, I calculated the battery life assuming constant maximum output from the amplifier. Now after some use, I have learned that playing music quieter than max volume, or even the music itself having quieter moments or micro breaks that don't use as much power, really reduces the draw the speaker has on battery life. This means that I have an incredibly oversized batter for this speaker (probably 10 charges since I've made it, and this is with heavy use)
+    * In the future, I would downsize the battery to a more appropriate size, (even 6AH would be plenty), so that the speaker is lighter and easier to carry
+* Portability
+    * The final item that is tricky with this design, (especially with the massive battery and subs), is that it is pretty heavy and burdensome to carry. I believe it weighs ~15-20lbs.
+    * Reducing the battery size would greatly help reduce the weight so it is nicer to carry. Additionally, I might look into some sort of wheels so it can be rolled around rather than carried
 
 ---
 

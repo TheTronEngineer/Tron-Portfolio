@@ -92,11 +92,11 @@ Another mini project was the 3D printed battery cage. this was very helpful in e
 One consideration that I had was making speaker grills to protect the drivers from damage. I modelled some grills to fit the speakers, but I ultimately decided to not go through with the grills for a couple reasons. First, printing the grills would be bulky and potentially block volume coming out of my speaker. Additionally, I didn't want to spend more money to purchase a better material for covers. So far, my speaker hasn't taken on any damage and it has been working well.
 <table>
   <tr>
-    <td><img src="./Pictures/Rubber Foot Pic.jpg" height="250"></td>
-    <td><img src="./Pictures/Speaker-SpeakerHandlePosition.jpg.jpg" height="250"></td>
-    <td><img src="./Pictures/Speaker-DriverScrewColour.jpg.jpg" height="250"></td>
-    <td><img src="./Pictures/Grill - RL Channel.png" height="250"></td>
-    <td><img src="./Pictures/Grill - Sub.png" height="250"></td>
+    <td><img src="./Pictures/Rubber Foot Pic.png" height="250"></td>
+    <td><img src="./Pictures/Speaker-SpeakerHandlePosition.jpg" height="250"></td>
+    <td><img src="./Pictures/Speaker-DriverScrewColour.jpg" height="250"></td>
+    <td><img src="./Pictures/Grill - RL Channel.png" height="200"></td>
+    <td><img src="./Pictures/Grill - Sub.png" height="200"></td>
   </tr>
 </table>
 

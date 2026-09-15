@@ -121,8 +121,10 @@ Now especially because I was new to lots of this type of electronics and project
 ## Reflection
 
 **Achievements and Accomplishments:**  
-* I believe I fufilled the goals of this project very well. The speaker had high audio quality with lots of low end, was battery powered and had a carrying handle for portability, and probably spent around $300 (which is great for this quality and caliber of speaker!)
-* I was very happy with the success of a higher level project where I was able to learn and apply knowledge to move outside the realm of arduino based projects, and into component selection and open-ended circuit design
+* I believe I fufilled the goals of this project very well.
+    * The speaker had high audio quality with lots of low end, was battery powered and had a carrying handle for portability, and probably spent around $300 (which is great for this quality and caliber of speaker!)
+* I was very happy with the projects success.
+    * This project was of a higher level where I was able to learn and apply knowledge to move outside the realm of arduino based projects, and into component selection and open-ended circuit design
 * Overall I loved using the speaker!
 
 

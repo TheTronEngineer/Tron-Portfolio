@@ -42,10 +42,24 @@ This means I wanted to suit to meet these criteria:
 ## Engineering Process
 
 **Design/Planning:**  
-Show Pictures, images and descriptions of planning the project. Also include specific engineering decisions
+Now, this being my first major engineering project, lots of reaserch was nessisary to gain direction for this project. This started mainly by watching videos on Youtube, lots from Frankly Built, on others building cosplay suits with 3D printing. This was very helpful as I was able to watch as people made mistakes and gave advice through their building process.
+
+After watching others do these builds, I was excited and motivated to start my own. This is where I started to make plans on how I wanted to go about building my suit. Here I decided to purchace suit files, as this size of modelling was to large for my skills and the time constraints. To find a 3D model of an Iron Man suit, I followed the same company as Frankly Built, D03D. Here I chose to purchace the Mark 4 armour for my suit. Additionally, I decicded to make the suit out of PLA as it was a cheap filament that was easy to print.
+<table>
+  <tr>
+    <td><img src="./Pictures/Ironman MK I Refrence Collage.jpg" height="400"></td>
+  </tr>
+</table>
+(Image is a collage of all the refrence photos used after I had finished the project)
 
 **Building/Iterating:**  
-Show different prototypes and milestones in build progress. Also talk about good and hard parts about building, and any decisions that changed from the old design
+To start this project, I went straight to printing the helmet. However, the printer I had only had a build volume of 256mm^3, meaning many of this files would have to be chopped into smaller pieces in order to be printed. This also meant that I needed to orecombine these peices later on somehow. I chopped the helmet, sliced the files and sent it to the printer. For the helmet to fit both me and it's electronics, I had to take measurements of my head to scale the helmet files.
+<table>
+  <tr>
+    <td><img src="./Pictures/Printing Face Mask.jpeg" height="400"></td>
+  </tr>
+</table>
+
 
 **Testing:**  
 After/during the project, how did you make sure items were working as intended? How did you measure success?

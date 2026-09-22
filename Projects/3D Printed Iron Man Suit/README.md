@@ -92,7 +92,7 @@ Post-processing the pieces was the next step in this process. The process I went
 * Painted the pieces with a metallic gold spray paint
     * Here I did 3 coats of the gold paint
 * Tape off any section I wanted to stay gold
-* Spray paint a Metalcast red over the whole piece  
+* Spray paint a Metalcast red over the whole piece  <br>
 Sanding and painting is where I realised that the big layer height left very visible lines after painting. However I couln't sand for too long as my patience and time for the project dwindled. Sanding the print and the primer also gummed up the sandpaper, so that made the process tricker. In the future I would want to look into wet sanding. The Metalcast red spray paint worked differently than most paints. Instead of being opaque, this was more similar to a heavy tint. So this colour needed a metallic base underneath to be shiny. This is why I painted gold everywhere, then taped off the sections to paint the red on top. This process taught me a lot about spray painting, patience and percision, especially as the Metalcast Red was quite runny.
 <table>
   <tr>
@@ -111,9 +111,9 @@ The hardest part of this was soldering. As I had not soldered much before, I was
     <td><img src="./Pictures/Helmet Wiring.jpg" height="400"></td>
   </tr>
 </table>
-Finally came the stage of actually putting the pieces together so they could be worn. This process was very tricky, having to work around the flexibility of my own body. The biggest help was something I learned from Frankly Built, which was having a harness underneath the suit that armour could be attched to. This simply made it easier to attach pieces to my body. For the harness, I ended up using some old ratchet straps from the garage and sewing together a harness.  
-Before I went for the big pieces, I had to connect smaller pieces like the gloves or the bicep to the sholder piece. For this, hot glue and elastic bands were suprisingly effective. My theory is the layer lines of the prints gave the hot glue plenty of surface area to bond to. The elastic bands were perfect for allowing movement while still keeping pieces together.  
-Moving to the bigger pieces, I used a combination of elastic bands, buckles, hot glue, and sewing to create attachment points for each piece of armour. Having these firm connections were very helpful in keep the armour in the right place as I wore the suit.  
+Finally came the stage of actually putting the pieces together so they could be worn. This process was very tricky, having to work around the flexibility of my own body. The biggest help was something I learned from Frankly Built, which was having a harness underneath the suit that armour could be attched to. This simply made it easier to attach pieces to my body. For the harness, I ended up using some old ratchet straps from the garage and sewing together a harness.<br>
+Before I went for the big pieces, I had to connect smaller pieces like the gloves or the bicep to the sholder piece. For this, hot glue and elastic bands were suprisingly effective. My theory is the layer lines of the prints gave the hot glue plenty of surface area to bond to. The elastic bands were perfect for allowing movement while still keeping pieces together.<br>
+Moving to the bigger pieces, I used a combination of elastic bands, buckles, hot glue, and sewing to create attachment points for each piece of armour. Having these firm connections were very helpful in keep the armour in the right place as I wore the suit.<br>
 The other items I secured to the harness was the electronics and the battery pack. Having these on my chest gave them a place to go that wouldn't weigh down the helmet. I ran wires for power and signalalong the back of my neck to power the helmet.  
 <table>
   <tr>

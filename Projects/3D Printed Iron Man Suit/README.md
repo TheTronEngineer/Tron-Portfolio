@@ -54,6 +54,7 @@ After watching others do these builds, I was excited and motivated to start my o
 </table>
 (^Refrence Image of the suit I was building^)
 
+
 **Building/Iterating:**  
 To start this project, I went straight to printing the helmet. However, the printer I had only had a build volume of 256mm^3, meaning many of this files would have to be chopped into smaller pieces in order to be printed. This also meant that I needed to orecombine these peices later on somehow. I chopped the helmet, sliced the files and sent it to the printer. For the helmet to fit both me and it's electronics, I had to take measurements of my head to scale the helmet files.
 <table>
@@ -91,7 +92,7 @@ Post-processing the pieces was the next step in this process. The process I went
 * Painted the pieces with a metallic gold spray paint
     * Here I did 3 coats of the gold paint
 * Tape off any section I wanted to stay gold
-* Spray paint a Metalcast red over the whole piece
+* Spray paint a Metalcast red over the whole piece  
 Sanding and painting is where I realised that the big layer height left very visible lines after painting. However I couln't sand for too long as my patience and time for the project dwindled. Sanding the print and the primer also gummed up the sandpaper, so that made the process tricker. In the future I would want to look into wet sanding. The Metalcast red spray paint worked differently than most paints. Instead of being opaque, this was more similar to a heavy tint. So this colour needed a metallic base underneath to be shiny. This is why I painted gold everywhere, then taped off the sections to paint the red on top. This process taught me a lot about spray painting, patience and percision, especially as the Metalcast Red was quite runny.
 <table>
   <tr>
@@ -102,15 +103,43 @@ Sanding and painting is where I realised that the big layer height left very vis
   </tr>
 </table>
 
+Another concurrent task was working on the electronics for the helmet and chestplate. I wanted the helmet to be motorized with servos, as well as have lights to create an 'alive' look and feel. I chose to use an arduino along with some servos as this is what I was familiar with from previous small projects and tinkering. Frankly Built also had a tutorial video outlining how to motorize a helmet along with [3D models](https://www.thingiverse.com/thing:4607836) and code for me to use. As I will explain later, I decided to only have the motors in the helmet and keep the rest of the electronics somewhere else. For lights, I watned the eyes to light up, as well as the centerpiece in the chestplate. For this I used some old LED strips that I could connect to an Arduino pin and to a battery pack.  
+The hardest part of this was soldering. As I had not soldered much before, I was learning lots but also struggling. (I would learn later during my speaker project that I needed the heat about twice as hot...). I also decided to have the helmet opening butting embedded in the center piece of the chestplate. Keeping the white disc slightly loose on one side and putting a button underneath it provided me an easily acessable and reliable way to open my helmet. Being able to find the button easily was very important as I could hardly see out of the helmet.
+<table>
+  <tr>
+    <td><img src="./Pictures/Messy Desk.jpg" height="400"></td>
+    <td><img src="./Pictures/Helmet Wiring.jpg" height="400"></td>
+  </tr>
+</table>
+Finally came the stage of actually putting the pieces together so they could be worn. This process was very tricky, having to work around the flexibility of my own body. The biggest help was something I learned from Frankly Built, which was having a harness underneath the suit that armour could be attched to. This simply made it easier to attach pieces to my body. For the harness, I ended up using some old ratchet straps from the garage and sewing together a harness.  
+Before I went for the big pieces, I had to connect smaller pieces like the gloves or the bicep to the sholder piece. For this, hot glue and elastic bands were suprisingly effective. My theory is the layer lines of the prints gave the hot glue plenty of surface area to bond to. The elastic bands were perfect for allowing movement while still keeping pieces together.  
+Moving to the bigger pieces, I used a combination of elastic bands, buckles, hot glue, and sewing to create attachment points for each piece of armour. Having these firm connections were very helpful in keep the armour in the right place as I wore the suit.  
+The other items I secured to the harness was the electronics and the battery pack. Having these on my chest gave them a place to go that wouldn't weigh down the helmet. I ran wires for power and signalalong the back of my neck to power the helmet.  
+<table>
+  <tr>
+    <td><img src="./Pictures/Dad Helps Adjust.jpg" height="400"></td>
+    <td><img src="./Pictures/School Suited Up.jpg" height="400"></td>
+  </tr>
+</table>
+
 **Testing:**  
-After/during the project, how did you make sure items were working as intended? How did you measure success?
+To ensure each part of this suit was both functional and compatible with other parts, lots of testing throughout the project was required. The following are areas that had to be tested as I went through the project
+* Armour fit
+    * Each piece of the armour had to fit around my bodily dimensions, but also not bee too big that it looked silly or not cohesive. This required measuring beforehand, but put simply I found success when I could get the piece of armour on
+* Electonics and wiring
+    * The electronics of the system, although I was using pre-written code, still needed tuning and adjustment. To get the right closing and opening speed, have the motors hold the helmet open, and the lights to turn on at the right time, I had to test many variations of code. Additionally I had to test battery drain as a dead battery means I wouldn't be able to open my helmet to see.
+* Functionality of the fit
+    * One of the trickyest parts was making sure each armour piece would stay on my body during the day, but also that it would allow me to move enough to perform school tasks for the day. This required me to do lots of walking and moving. When I could adequitely move my arms, legs, or body to be able to walk and go through school is when I knew I had a good enough fit and placement
 
 ---
 
 ## Reflection
 
 **Achievements and Accomplishments:**  
-What did you like about the project, what went well, what did you learn?
+I was incredibly happy with this project and how it turned out. Not only was it my first main engineering project, but I got many compliments from friends, family and people at school. There were a couple main points that I felt accomplished in:
+* Developing my problem-solving and engineering skills
+    * I felt like I had truly learned how to adapt and integrate changes to my design when I encountered problems. Since this is an essential part of engineering, really helped me not only with dealing with issues that came up, but also seeing future issues.
+* 
 
 **Future Improvements:**  
 What would you change for next time, what didn't go super well, what did you learn?

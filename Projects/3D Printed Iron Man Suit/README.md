@@ -121,6 +121,13 @@ The other items I secured to the harness was the electronics and the battery pac
     <td><img src="./Pictures/School Suited Up.jpg" height="400"></td>
   </tr>
 </table>
+This suit was quite restrictive with my range of motion, so I needed help putting on the whole suit, specifically the arms. But overall, this is still one of my favorite projects for both its learning and its outcome
+<table>
+  <tr>
+    <td><img src="./Pictures/Dark Pose.jpg" height="400"></td>
+    <td><img src="./Pictures/Full Suit Selfie.jpg" height="400"></td>
+  </tr>
+</table>
 
 **Testing:**  
 To ensure each part of this suit was both functional and compatible with other parts, lots of testing throughout the project was required. The following are areas that had to be tested as I went through the project
@@ -139,10 +146,17 @@ To ensure each part of this suit was both functional and compatible with other p
 I was incredibly happy with this project and how it turned out. Not only was it my first main engineering project, but I got many compliments from friends, family and people at school. There were a couple main points that I felt accomplished in:
 * Developing my problem-solving and engineering skills
     * I felt like I had truly learned how to adapt and integrate changes to my design when I encountered problems. Since this is an essential part of engineering, really helped me not only with dealing with issues that came up, but also seeing future issues.
-* 
+* It looked pretty cool
+    * And not only did it look pretty cool, it also felt very cool to wear! This new suit was definitely a lot more polished and high quality than my previous cardboard model, and the integrated lights truly brought the suit to life
 
 **Future Improvements:**  
-What would you change for next time, what didn't go super well, what did you learn?
+As happy as I was with this suit, throughout the whole project I saw areas I wanted to change or improve on. None of these areas of improvement make me dislike the suit, but it rather turns my attention to future opportunities like this to try something new.
+* Armour finish quality
+    * One thing that was very obvious, especially after painting, is all the layer lines from the printer as well as the seams between pieces. Although the layer lines did give the suit a 'brushed metal' effect, I would love to improve on this quality in the future. I would want to use a smaller layer height, try a filling primer rather than a sanding primer, and spend more time sanding and getting the armour smooth before painting
+* Electronics and its setup
+    * The electronics worked ok, but it had some flaws. Pressing the button in  my chestplate was tricky with my gloves, the servo motors were a little finicky and the mask would eventually droop instead of holding open, and most importantly, the power cable from the power bank to me helmet was slightly too short, forcing me into an uncomfortable pose while wearing the suit. These items, along with the wiring in my helmet, could all be improved in many small ways to make it function better. For example, having some sort of mechanism to lock the faceplate in the 'open' position would help with drooping
+* Fit and function of the suit
+    * One major downside of wearing this suit, was how limiting it was. My arm flexibility was limited at best, I could hardly see through the slits and lights in the helmet, and I could say goodbye to sitting down... This obviously arises when adapting a design to a specific body, but also printing out of PLA. In the future I'd want to find a way to see better out of the helmet, have a wider range of motion, and hopefully have a way to sit down without having to take off the suit.
 
 ---
 

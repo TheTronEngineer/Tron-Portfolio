@@ -53,7 +53,8 @@ After watching others do these builds, I was excited and motivated to start my o
   </tr>
 </table>
 (^Refrence Image of the suit I was building^)
-
+<br>
+<br>
 
 **Building/Iterating:**  
 To start this project, I went straight to printing the helmet. However, the printer I had only had a build volume of 256mm^3, meaning many of this files would have to be chopped into smaller pieces in order to be printed. This also meant that I needed to orecombine these peices later on somehow. I chopped the helmet, sliced the files and sent it to the printer. For the helmet to fit both me and it's electronics, I had to take measurements of my head to scale the helmet files.

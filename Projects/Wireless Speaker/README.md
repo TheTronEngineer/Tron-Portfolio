@@ -2,7 +2,7 @@
 
 *Date: December 2023 - March 2024* | Personal project during grade 12
 
-<img src="./Pictures/Speaker-Final-Main.jpg" alt="Wireless Speaker Main Picture" width="250"/>
+<img src="./Pictures/Speaker-Final-Main.jpg" alt="Wireless Speaker Main Picture" width="500"/>
 
 ---
 
@@ -47,8 +47,8 @@ Along with the components, the speaker cabinet needed careful planning as well. 
 And finally, style! What would be the point of a speaker if it didn't look at lease a little cool? I had done a bunch of thinking and a little bit of sketching to help invision different designs. As seen in the picture below, I settled on a mostly rectangular design with some slightly rounded corners. I also did a basic model in Fusion 360 to get an idea on size and look of the speaker  
 <table>
   <tr>
-    <td><img src="./Pictures/Speaker Designs.jpg" height="250"></td>
-    <td><img src="./Pictures/Cabinet Design Fusion 360.jpg" height="250"></td>
+    <td><img src="./Pictures/Speaker Designs.jpg" height="300"></td>
+    <td><img src="./Pictures/Cabinet Design Fusion 360.jpg" height="300"></td>
   </tr>
 </table>
 
@@ -79,8 +79,8 @@ As a note, I did not include insulation in the subwoofer cabinet becuase the res
 One other fun part of this project is I got to design the control pannel for all the electronics. I modelled this in Fusion 360 by measuring components with calipers. I am very happy with how it looks, and it's held up really well over the years!
 <table>
   <tr>
-    <td><img src="./Pictures/Speaker-ElectronicsInstalled2.jpg" height="400"></td>
-    <td><img src="./Pictures/Speaker-Final-Controls.jpg" height="400"></td>
+    <td><img src="./Pictures/Speaker-ElectronicsInstalled2.jpg" height="450"></td>
+    <td><img src="./Pictures/Speaker-Final-Controls.jpg" height="450"></td>
   </tr>
 </table>
 
@@ -92,11 +92,13 @@ Another mini project was the 3D printed battery cage. this was very helpful in e
 One consideration that I had was making speaker grills to protect the drivers from damage. I modelled some grills to fit the speakers, but I ultimately decided to not go through with the grills for a couple reasons. First, printing the grills would be bulky and potentially block volume coming out of my speaker. Additionally, I didn't want to spend more money to purchase a better material for covers. So far, my speaker hasn't taken on any damage and it has been working well.
 <table>
   <tr>
-    <td><img src="./Pictures/Speaker Rubber Foot Pic.png" height="250"></td>
-    <td><img src="./Pictures/Speaker-SpeakerHandlePosition.jpg" height="275"></td>
-    <td><img src="./Pictures/Speaker-DriverScrewColour.jpg" height="275"></td>
-    <td><img src="./Pictures/Speaker Grill - RL Channel.png" height="250"></td>
-    <td><img src="./Pictures/Speaker Grill - Sub.png" height="250"></td>
+    <td><img src="./Pictures/Speaker Rubber Foot Pic.png" height="300"></td>
+    <td><img src="./Pictures/Speaker-SpeakerHandlePosition.jpg" height="300"></td>
+    <td><img src="./Pictures/Speaker-DriverScrewColour.jpg" height="300"></td>
+  </tr>
+  <tr>
+    <td><img src="./Pictures/Speaker Grill - RL Channel.png" height="300"></td>
+    <td><img src="./Pictures/Speaker Grill - Sub.png" height="300"></td>
   </tr>
 </table>
 

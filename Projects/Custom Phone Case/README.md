@@ -2,7 +2,7 @@
 
 *Date: November 2025 - December 2025*
 
-<img src="./Pictures/Case Back.jpg" alt="Phone Case" width="450"/>
+<img src="./Pictures/Case Back.jpg" alt="Phone Case" width="500"/>
 
 ---
 
@@ -41,19 +41,19 @@ After the initial suggestion of this impulsive idea, me and a second friend, (wh
 * The client wanted the design to center around a Hebrew character Ben, as it was significant to him ([Read more on the Hebrew character here](https://www.ancient-hebrew.org/definition/son.htm))
 * Out of the colours of TPU filament I had, the client preferred a black with blue highlights colour scheme
 
-This gave me and the designer a good direction to head for the case. At this point, the designer took this information and started working on sketches for case designs. Ultimately, the designer came back settled on the following design:
+This gave me and the designer a good direction to head for the case. At this point, the designer took this information and started working on sketches for case designs. Ultimately, the designer came back settled on the following design: *(currently don't have the pictures of the sketches, but they will be added asap!)*
 <table>
   <tr>
-    <td><img src="./Pictures/Cardboard model Left.jpg" height="300"></td>
-    <td><img src="./Pictures/Cardboard model Left.jpg" height="300"></td>
+    <td><img src="./Pictures/Cardboard model Left.jpg" height="350"></td>
+    <td><img src="./Pictures/Cardboard model Left.jpg" height="350"></td>
   </tr>
 </table>
 While the designer was working through potential case designs, I took the time to make a cardboard model of the clients IPhone 12. This was made in case I wanted to test the fit of the case after I had printed it to ensure it was ready and usable for the client. The cardboard model was made by layering thin pieces of cardboard, held together with hot glue. This formed a rigid frame that I was then able to attach buttons and a camera block to. The model was made to be as accurate as possible to ensure the printed case would fit the phone and the model the same.
 <table>
   <tr>
-    <td><img src="./Pictures/Cardboard model Left.jpg" height="300"></td>
-    <td><img src="./Pictures/Cardboard Model Right.jpg" height="300"></td>
-    <td><img src="./Pictures/Cardboard Model.jpg" height="300"></td>
+    <td><img src="./Pictures/Cardboard model Left.jpg" height="350"></td>
+    <td><img src="./Pictures/Cardboard Model Right.jpg" height="350"></td>
+    <td><img src="./Pictures/Cardboard Model.jpg" height="350"></td>
   </tr>
 </table>
 
@@ -67,23 +67,25 @@ After the design was finalised and approved by the client, I moved on to modelli
 This was the final model that I created:
 <table>
   <tr>
-    <td><img src="./Pictures/Modelled Phone Case.png" height="300"></td>
-    <td><img src="./Pictures/WrapAround Missing Piece.png" height="300"></td>
-    <td><img src="./Pictures/WrapAround Coloured Piece.png" height="300"></td>
+    <td><img src="./Pictures/Modelled Phone Case.png" height="500"></td>
+  </tr>
+  <tr>
+    <td><img src="./Pictures/WrapAround Missing Piece.png" height="350"></td>
+    <td><img src="./Pictures/WrapAround Coloured Piece.png" height="350"></td>
   </tr>
 </table>
 The case could now move to be printed. As I had designed and printed plenty of cases before, this was a familiar step for me. However, there was one major difference with this design that needed a solution. The design stuck out from the back of the case, leaving large overhangs that couldn't be printed midair. Usually the solution for this would be to enable supports, however printing with TPU, the printed supports would only fuse to the case. To get around this, I increased the distance between the top of the supports and the case, paused the print when it had finished printing the supports, and then cut and placed painters tape over top of the supports. This way the printer would still have a surface to print the overhangs on, but here the painters tape protected the case from fusing to the supports. 
-<img src="./Pictures/Case Printing Support Tape.jpg" alt="Phone Case" width="400"/>
+<img src="./Pictures/Case Printing Support Tape.jpg" alt="Phone Case" width="450"/>
 This worked really well and gave a pretty clean back surface. This was the result after printing:
 <table>
   <tr>
-    <td><img src="./Pictures/Case Back.jpg" height="300"></td>
-    <td><img src="./Pictures/Case Back Angle.jpg" height="300"></td>
-    <td><img src="./Pictures/Case Front Angle.jpg" height="300"></td>
+    <td><img src="./Pictures/Case Back.jpg" height="350"></td>
+    <td><img src="./Pictures/Case Back Angle.jpg" height="350"></td>
+    <td><img src="./Pictures/Case Front Angle.jpg" height="350"></td>
   </tr>
   <tr>
-    <td><img src="./Pictures/Case Left.jpg" height="300"></td>
-    <td><img src="./Pictures/Case Right.jpg" height="300"></td>
+    <td><img src="./Pictures/Case Left.jpg" height="350"></td>
+    <td><img src="./Pictures/Case Right.jpg" height="350"></td>
   </tr>
 </table>
 

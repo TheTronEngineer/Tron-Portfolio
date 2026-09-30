@@ -41,7 +41,7 @@ After the initial suggestion of this impulsive idea, me and a second friend, (wh
 * The client wanted the design to center around a Hebrew character Ben, as it was significant to him ([Read more on the Hebrew character here](https://www.ancient-hebrew.org/definition/son.htm))
 * Out of the colours of TPU filament I had, the client preferred a black with blue highlights colour scheme
 
-This gave me and the designer a good direction to head for the case. At this point, the designer took this information and started working on sketches for case designs. Ultimately, the designer came back settled on the following design:
+This gave me and the designer a good direction to head for the case. At this point, the designer took this information and started working on sketches for case designs. Ultimately, the designer came back settled on the following design (Right):
 <table>
   <tr>
     <td><img src="./Pictures/Sketches Designs.jpg" height="350"></td>

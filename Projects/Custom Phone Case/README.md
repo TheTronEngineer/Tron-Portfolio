@@ -1,6 +1,6 @@
-# Wireless Speaker 
+# Custom Designed Phone Case
 
-*Date: December 2025 - March 2025*
+*Date: November 2025 - December 2025*
 
 <img src="./Pictures/Case Back.jpg" alt="Phone Case" width="250"/>
 ---
